@@ -16,6 +16,23 @@
 
 }
 
+.button-phone {
+    height: 64px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    background: #FFF8F3;
+    color: #FD6E0A;
+    font-weight: 700;
+   
+    font-weight: 700;
+font-size: 20px;
+    padding: 18px 35px;
+    margin-left: 50px;
+    margin-top: 10px;
+
+}
+
+
 .header {
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
@@ -159,6 +176,7 @@ main {
 
 .skill-description {
     color: #757575;
+    
 }
 
 /* resume styles */
@@ -189,7 +207,7 @@ main {
     color: #757575;
     font-weight: 600;
     font-size: 20px;
-  margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 .resume.item {
@@ -221,7 +239,7 @@ hr {
     gap: 100px;
     background: #FFF8F3;
     padding: 10px 20px;
-    
+
 }
 
 .contact .section-title {
@@ -241,6 +259,7 @@ textarea {
 input {
     height: 20px;
 }
-.contact a{
+
+.contact a {
     text-decoration: none;
 }
